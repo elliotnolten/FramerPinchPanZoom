@@ -14,6 +14,7 @@ export function PinchPanZoom({
     ...props
 }) {
     const imageSource = sourceType ? url : image
+    const [panningEnable, setPanningEnabled] = React.useState(false)
     return (
         <TransformWrapper
             onZoomChange={(object) => {
@@ -24,22 +25,24 @@ export function PinchPanZoom({
                     positionY,
                     options,
                 } = object
+                const isZoomed = scale > 1
+                setPanningEnabled(isZoomed)
                 onZoomChange(
                     previousScale,
                     scale,
                     positionX,
                     positionY,
-                    options
+                    options,
+                    isZoomed
                 )
             }}
-            wheel={{ step: 50 }}
+            wheel={{ step: 10 }}
             options={{
-                centerContent: true,
                 limitToWrapper: false,
                 limitToBounds: true,
                 transformEnabled: true,
             }}
-            pan={{ disabled: false }}
+            pan={{ disabled: !panningEnable }}
             scalePadding={{ disabled: true }}
         >
             <TransformComponent>

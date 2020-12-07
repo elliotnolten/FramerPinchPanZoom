@@ -1,6 +1,6 @@
 {
-	"main": "dist/index.js",
 	"license": "MIT",
+	"main": "dist/index.js",
 	"devDependencies": {
 		"@types/react": "^16.8"
 	},
@@ -9,7 +9,7 @@
 		"react": "^16.8"
 	},
 	"framer": {
-		"id": "38f82141-ca8c-4cf6-8e1f-1a59cac54749"
+		"displayName": "Pinch Pan Zoom"
 	},
 	"author": "Elliot Nolten",
 	"dependencies": {
@@ -17,5 +17,7 @@
 		"add": "^2.0.6",
 		"react-zoom-pan-pinch": "^1.6.1",
 		"yarn": "^1.22.10"
-	}
+	},
+	"name": "@framer/elliot.pinch-pan-zoom",
+	"version": "1.1.0"
 }
