@@ -86,6 +86,15 @@
                       "type" : "unstyled"
                     }
                   ],
+                  "cached" : {
+                    "html" : "<div data-offset-key=\"aiitd-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"aiitd-0-0\" style=\"tab-size:4;font-family:&quot;Inter&quot;, sans-serif;-webkit-text-fill-color:rgb(0, 0, 0);font-size:31px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">👌🏽<\/span><\/span><\/div>",
+                    "os" : "macos 10_15 framerx",
+                    "size" : {
+                      "height" : 37,
+                      "width" : 32
+                    },
+                    "width" : 0
+                  },
                   "entityMap" : {
 
                   }
@@ -7257,7 +7266,7 @@
             "isExternalMaster" : null,
             "isMaster" : false,
             "isTarget" : false,
-            "left" : 993,
+            "left" : 60,
             "locked" : false,
             "name" : "Artwork",
             "opacity" : 1,
@@ -7274,7 +7283,7 @@
             "replicaInfo" : null,
             "right" : null,
             "rotation" : 0,
-            "top" : 706,
+            "top" : -215,
             "visible" : true,
             "width" : 800,
             "widthType" : 0
