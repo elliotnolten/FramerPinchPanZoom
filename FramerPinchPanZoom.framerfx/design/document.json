@@ -144,7 +144,7 @@
             "isExternalMaster" : null,
             "isMaster" : false,
             "isTarget" : false,
-            "left" : 924,
+            "left" : 60,
             "locked" : false,
             "name" : null,
             "opacity" : 1,
@@ -161,7 +161,7 @@
             "replicaInfo" : null,
             "right" : null,
             "rotation" : 0,
-            "top" : -215,
+            "top" : -325,
             "visible" : true,
             "width" : 50,
             "widthType" : 0
