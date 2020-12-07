@@ -11,5 +11,11 @@
 	"framer": {
 		"id": "38f82141-ca8c-4cf6-8e1f-1a59cac54749"
 	},
-	"author": "Elliot Nolten"
+	"author": "Elliot Nolten",
+	"dependencies": {
+		"@framer/framer.default": "^1.94.0",
+		"add": "^2.0.6",
+		"react-zoom-pan-pinch": "^1.6.1",
+		"yarn": "^1.22.10"
+	}
 }
