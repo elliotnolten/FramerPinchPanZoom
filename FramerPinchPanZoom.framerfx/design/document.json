@@ -184,6 +184,11 @@
                   "id" : "tyE5FfHfC",
                   "type" : "componentinstance",
                   "value" : "VqHDFaASq"
+                },
+                {
+                  "id" : "ThNmfsWAr",
+                  "type" : "componentinstance",
+                  "value" : "iKYrDxOi7"
                 }
               ]
             },
@@ -300,7 +305,8 @@
               {
                 "__class" : "CodeComponentNode",
                 "$control__image" : {
-                  "type" : "image"
+                  "type" : "image",
+                  "value" : "data:framer\/asset-reference,VE34jpUQgNzaK7jvmbmXN7gYyY.jpg?originalFilename=403_2160.jpg"
                 },
                 "$control__onTap" : {
                   "type" : "eventhandler"
@@ -310,7 +316,7 @@
                 },
                 "$control__sourceType" : {
                   "type" : "boolean",
-                  "value" : true
+                  "value" : false
                 },
                 "$control__url" : {
                   "type" : "string",
@@ -534,6 +540,142 @@
             "left" : 1808,
             "locked" : false,
             "name" : "Photo2",
+            "opacity" : 1,
+            "originalid" : null,
+            "parentid" : "EQUXXWZod",
+            "previewSettings" : null,
+            "radius" : 0,
+            "radiusBottomLeft" : 0,
+            "radiusBottomRight" : 0,
+            "radiusIsRelative" : false,
+            "radiusPerCorner" : false,
+            "radiusTopLeft" : 0,
+            "radiusTopRight" : 0,
+            "replicaInfo" : null,
+            "right" : null,
+            "rotation" : 0,
+            "top" : -215,
+            "visible" : true,
+            "width" : 320,
+            "widthType" : 0
+          },
+          {
+            "__class" : "FrameNode",
+            "aspectRatio" : null,
+            "bottom" : null,
+            "centerAnchorX" : 0,
+            "centerAnchorY" : 0,
+            "children" : [
+              {
+                "__class" : "CodeComponentNode",
+                "$control__image" : {
+                  "type" : "image",
+                  "value" : "data:framer\/asset-reference,qzLILWM5OPqPvYHKFgwSBK00YfA.jpg?originalFilename=842_2160.jpg"
+                },
+                "$control__onTap" : {
+                  "type" : "eventhandler"
+                },
+                "$control__onZoomChange" : {
+                  "type" : "eventhandler"
+                },
+                "$control__sourceType" : {
+                  "type" : "boolean",
+                  "value" : false
+                },
+                "$control__url" : {
+                  "type" : "string",
+                  "value" : "https:\/\/cloud.funda.nl\/valentina_media\/136\/990\/208_720x480.jpg"
+                },
+                "aspectRatio" : null,
+                "bottom" : 0,
+                "centerAnchorX" : 0.5,
+                "centerAnchorY" : 0.5,
+                "clip" : true,
+                "codeComponentIdentifier" : ".\/PinchPanZoom.tsx_PinchPanZoom",
+                "codeComponentPackageVersion" : "1.94.0",
+                "codeOverrideEnabled" : true,
+                "codeOverrideFile" : ".\/App.tsx",
+                "codeOverrideIdentifier" : ".\/App.tsx_Image",
+                "codeOverrideName" : "Image",
+                "constraintsLocked" : false,
+                "duplicatedFrom" : [
+                  "AMFUjUPSy",
+                  "pjVNShy5m",
+                  "UdN4mZ_94"
+                ],
+                "exportOptions" : [
+
+                ],
+                "fillColor" : "rgba(255,255,255,1)",
+                "fillEnabled" : false,
+                "fillImage" : null,
+                "fillImageOriginalName" : null,
+                "fillImagePixelHeight" : null,
+                "fillImagePixelWidth" : null,
+                "fillImageResize" : "fill",
+                "fillType" : "color",
+                "height" : 640,
+                "heightType" : 0,
+                "id" : "AuOc0ZRoJ",
+                "intrinsicHeight" : 640,
+                "intrinsicWidth" : 320,
+                "left" : 0,
+                "locked" : false,
+                "name" : "Photo3",
+                "opacity" : 1,
+                "originalid" : null,
+                "parentid" : "iKYrDxOi7",
+                "previewSettings" : null,
+                "radius" : 0,
+                "radiusBottomLeft" : 0,
+                "radiusBottomRight" : 0,
+                "radiusIsRelative" : false,
+                "radiusPerCorner" : false,
+                "radiusTopLeft" : 0,
+                "radiusTopRight" : 0,
+                "right" : 0,
+                "rotation" : 0,
+                "top" : 0,
+                "visible" : true,
+                "width" : 320,
+                "widthType" : 0
+              }
+            ],
+            "clip" : true,
+            "codeOverrideEnabled" : false,
+            "constraintsLocked" : false,
+            "duplicatedFrom" : [
+              "VqHDFaASq"
+            ],
+            "exportOptions" : [
+
+            ],
+            "fillColor" : "rgba(255,255,255,1)",
+            "fillEnabled" : true,
+            "fillImage" : null,
+            "fillImageOriginalName" : null,
+            "fillImagePixelHeight" : null,
+            "fillImagePixelWidth" : null,
+            "fillImageResize" : "fill",
+            "fillType" : "color",
+            "framePreset" : null,
+            "guidesX" : [
+
+            ],
+            "guidesY" : [
+
+            ],
+            "height" : 640,
+            "heightType" : 0,
+            "id" : "iKYrDxOi7",
+            "intrinsicHeight" : null,
+            "intrinsicWidth" : null,
+            "isExternalMaster" : null,
+            "isMaster" : false,
+            "isTarget" : false,
+            "left" : 2205,
+            "locked" : false,
+            "name" : "Photo3",
             "opacity" : 1,
             "originalid" : null,
             "parentid" : "EQUXXWZod",

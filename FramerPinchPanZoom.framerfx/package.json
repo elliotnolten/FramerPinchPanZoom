@@ -9,7 +9,8 @@
 		"react": "^16.8"
 	},
 	"framer": {
-		"displayName": "Pinch Pan Zoom"
+		"displayName": "Pinch Pan Zoom",
+		"id": "ca5bf2d3-7524-40e9-b2c7-8c036dcb7636"
 	},
 	"author": "Elliot Nolten",
 	"dependencies": {
