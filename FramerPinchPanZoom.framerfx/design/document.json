@@ -17,6 +17,20 @@
                 "$control__image" : {
                   "type" : "image"
                 },
+                "$control__onTap" : {
+                  "type" : "eventhandler"
+                },
+                "$control__onZoomChange" : {
+                  "type" : "eventhandler"
+                },
+                "$control__sourceType" : {
+                  "type" : "boolean",
+                  "value" : true
+                },
+                "$control__url" : {
+                  "type" : "string",
+                  "value" : "https:\/\/cloud.funda.nl\/valentina_media\/131\/490\/641_720x480.jpg"
+                },
                 "aspectRatio" : null,
                 "bottom" : 0,
                 "centerAnchorX" : 0.5,
@@ -27,7 +41,7 @@
                 "codeOverrideEnabled" : false,
                 "constraintsLocked" : false,
                 "duplicatedFrom" : [
-                  "zgSroLcou"
+                  "F0r1Yckpo"
                 ],
                 "exportOptions" : [
 
@@ -40,9 +54,9 @@
                 "fillImagePixelWidth" : null,
                 "fillImageResize" : "fill",
                 "fillType" : "color",
-                "height" : 640,
+                "height" : 998,
                 "heightType" : 0,
-                "id" : "RGR9Sy882",
+                "id" : "yOawhC_tc",
                 "intrinsicHeight" : 640,
                 "intrinsicWidth" : 320,
                 "left" : 0,
@@ -63,7 +77,7 @@
                 "rotation" : 0,
                 "top" : 0,
                 "visible" : true,
-                "width" : 320,
+                "width" : 562,
                 "widthType" : 0
               }
             ],
@@ -89,7 +103,7 @@
             "guidesY" : [
 
             ],
-            "height" : 640,
+            "height" : 998,
             "heightType" : 0,
             "id" : "pCJ7aQxQx",
             "intrinsicHeight" : null,
@@ -97,7 +111,7 @@
             "isExternalMaster" : null,
             "isMaster" : false,
             "isTarget" : false,
-            "left" : 477,
+            "left" : 296,
             "locked" : false,
             "name" : null,
             "opacity" : 1,
@@ -114,9 +128,9 @@
             "replicaInfo" : null,
             "right" : null,
             "rotation" : 0,
-            "top" : 45,
+            "top" : -122,
             "visible" : true,
-            "width" : 320,
+            "width" : 562,
             "widthType" : 0
           }
         ],
